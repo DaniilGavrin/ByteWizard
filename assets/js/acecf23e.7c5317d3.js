@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbyte_wizard=self.webpackChunkbyte_wizard||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ByteWizard/blog","blogTitle":"Blog","authorsListPath":"/ByteWizard/blog/authors"}')}}]);
